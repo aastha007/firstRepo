@@ -5,3 +5,5 @@ pasta
 coffee
 tea
 puffcorns
+specs 
+shoes
